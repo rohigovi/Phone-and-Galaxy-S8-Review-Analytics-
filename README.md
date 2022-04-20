@@ -1,4 +1,4 @@
-# Phone-and-Galaxy-S8-Review-Analytics
+# iPhone X-and-Galaxy-S8-Review-Analytics
 Part of the Final Project for Data Science for Product Managers(95-851) taught at Carnegie Mellon
 
 Analyzed sentiments for over 1 million tweets/posts for Galaxy S8 and iPhone X, used Latent Dirichlet Allocation(topic 
